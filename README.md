@@ -6,7 +6,7 @@ Linux Mint Kernel
 
 # Requirements:
 1. GraphQL
-2. Golang
+2. GoLang
 3. PostgreSQL
 
 # Setup:
