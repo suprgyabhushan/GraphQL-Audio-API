@@ -1,13 +1,13 @@
 # Description:
-GraphQL API for an audio shorts directory
+GraphQL API for an audio shorts directory.
 
 # System:
 Linux Mint Kernel
 
 # Requirements:
-GraphQL
-Golang
-PostgreSQL
+1. GraphQL
+2. Golang
+3. PostgreSQL
 
 # Setup:
 $ go run main.go
